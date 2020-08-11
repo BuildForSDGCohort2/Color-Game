@@ -16,6 +16,10 @@ header{
     font-weight: 800;
     color: white;
 }
+#title a{
+    text-decoration: none;
+    color: inherit;
+}
 
 p#greetings{
     font-size: 2rem;
